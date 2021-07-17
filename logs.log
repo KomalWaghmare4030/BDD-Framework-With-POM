@@ -1,0 +1,41 @@
+2021-06-06 19:49:15  [stepDefinitions.VerifyDetails] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-06-06 19:49:15  [stepDefinitions.VerifyDetails] (main:) Start Data Reading From Excel
+2021-06-06 19:49:15  [stepDefinitions.VerifyDetails] (main:) End Data Reading From Excel
+2021-06-06 19:49:15  [stepDefinitions.VerifyDetails] (main:) Started Storing Data into Map
+2021-06-06 19:49:15  [stepDefinitions.VerifyDetails] (main:) All Data Stored to Map
+2021-06-06 19:49:15  [stepDefinitions.VerifyDetails] (main:) Started Storing Players Data into Map
+2021-06-06 19:49:15  [stepDefinitions.VerifyDetails] (main:) Players Data Stored into Map
+2021-06-06 19:49:15  [stepDefinitions.VerifyDetails] (main:) Started Storing Bowling Data into Map
+2021-06-06 19:49:15  [stepDefinitions.VerifyDetails] (main:) Bowling Data Stored into Map
+2021-06-06 19:49:15  [stepDefinitions.VerifyDetails] (main:) Started Storing Batting Data into Map
+2021-06-06 19:49:15  [stepDefinitions.VerifyDetails] (main:) Batting Data Stored into Map
+2021-06-06 19:49:15  [stepDefinitions.VerifyDetails] (main:) Started Storing Fielding Data into Map
+2021-06-06 19:49:16  [stepDefinitions.VerifyDetails] (main:) Fielding Data Stored into Map
+2021-06-06 19:49:16  [stepDefinitions.VerifyDetails] (main:) Compare Data and add in ArrayList
+2021-06-06 19:49:16  [stepDefinitions.VerifyDetails] (main:) Data Added in ArrayList
+2021-06-06 19:49:16  [stepDefinitions.VerifyDetails] (main:) File Deleted Successfully
+2021-06-06 19:49:16  [stepDefinitions.VerifyDetails] (main:) Create Excel File
+2021-06-06 19:49:16  [stepDefinitions.VerifyDetails] (main:) Create Sheet in Excel File
+2021-06-06 19:49:17  [stepDefinitions.VerifyDetails] (main:) Close Sheet
+2021-06-06 19:49:17  [stepDefinitions.VerifyDetails] (main:) Close Workbook
+2021-07-03 11:15:20  [stepDefinitions.VerifyDetails] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-07-03 11:15:20  [stepDefinitions.VerifyDetails] (main:) Start Data Reading From Excel
+2021-07-03 11:15:20  [stepDefinitions.VerifyDetails] (main:) End Data Reading From Excel
+2021-07-03 11:15:20  [stepDefinitions.VerifyDetails] (main:) Started Storing Data into Map
+2021-07-03 11:15:20  [stepDefinitions.VerifyDetails] (main:) All Data Stored to Map
+2021-07-03 11:15:20  [stepDefinitions.VerifyDetails] (main:) Started Storing Players Data into Map
+2021-07-03 11:15:21  [stepDefinitions.VerifyDetails] (main:) Players Data Stored into Map
+2021-07-03 11:15:21  [stepDefinitions.VerifyDetails] (main:) Started Storing Bowling Data into Map
+2021-07-03 11:15:21  [stepDefinitions.VerifyDetails] (main:) Bowling Data Stored into Map
+2021-07-03 11:15:21  [stepDefinitions.VerifyDetails] (main:) Started Storing Batting Data into Map
+2021-07-03 11:15:21  [stepDefinitions.VerifyDetails] (main:) Batting Data Stored into Map
+2021-07-03 11:15:21  [stepDefinitions.VerifyDetails] (main:) Started Storing Fielding Data into Map
+2021-07-03 11:15:21  [stepDefinitions.VerifyDetails] (main:) Fielding Data Stored into Map
+2021-07-03 11:15:21  [stepDefinitions.VerifyDetails] (main:) Compare Data and add in ArrayList
+2021-07-03 11:15:21  [stepDefinitions.VerifyDetails] (main:) Data Added in ArrayList
+2021-07-03 11:15:21  [stepDefinitions.VerifyDetails] (main:) File Deleted Successfully
+2021-07-03 11:15:22  [stepDefinitions.VerifyDetails] (main:) Create Excel File
+2021-07-03 11:15:22  [stepDefinitions.VerifyDetails] (main:) Create Sheet in Excel File
+2021-07-03 11:15:23  [stepDefinitions.VerifyDetails] (main:) Close Sheet
+2021-07-03 11:15:23  [stepDefinitions.VerifyDetails] (main:) Close Workbook
+2021-07-03 11:15:23  [stepDefinitions.VerifyDetails] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 

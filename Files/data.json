@@ -1,0 +1,571 @@
+{
+   "dateTimeGMT":"2021-04-27T14:00:00.000Z",
+   "data":{
+      "fielding":[
+         {
+            "title":"Fielding for Royal Challengers Bangalore INNINGS (20 overs maximum)",
+            "scores":[
+               {
+                  "name":"Ishant Sharma",
+                  "runout":0,
+                  "stumped":0,
+                  "bowled":1,
+                  "lbw":0,
+                  "catch":0,
+                  "pid":"236779"
+               },
+               {
+                  "name":"Steven Smith",
+                  "runout":0,
+                  "stumped":0,
+                  "bowled":0,
+                  "lbw":0,
+                  "catch":2,
+                  "pid":"267192"
+               },
+               {
+                  "name":"Kagiso Rabada",
+                  "runout":0,
+                  "stumped":0,
+                  "bowled":1,
+                  "lbw":0,
+                  "catch":1,
+                  "pid":"550215"
+               },
+               {
+                  "name":"Avesh Khan",
+                  "runout":0,
+                  "stumped":0,
+                  "bowled":1,
+                  "lbw":0,
+                  "catch":0,
+                  "pid":"694211"
+               }
+            ]
+         },
+         {
+            "title":"Fielding for Delhi Capitals INNINGS (target: 172 runs from 20 overs)",
+            "scores":[
+               {
+                  "name":"AB de Villiers",
+                  "runout":0,
+                  "stumped":0,
+                  "bowled":0,
+                  "lbw":0,
+                  "catch":3,
+                  "pid":"44936"
+               },
+               {
+                  "name":"Yuzvendra Chahal",
+                  "runout":0,
+                  "stumped":0,
+                  "bowled":0,
+                  "lbw":0,
+                  "catch":1,
+                  "pid":"430246"
+               }
+            ]
+         }
+      ],
+      "bowling":[
+         {
+            "scores":[
+               {
+                  "NB":"0",
+                  "WD":"0",
+                  "6s":1,
+                  "4s":2,
+                  "0s":11,
+                  "Econ":"6.50",
+                  "W":"1",
+                  "R":"26",
+                  "M":"1",
+                  "O":"4",
+                  "bowler":"Ishant Sharma",
+                  "pid":"236779"
+               },
+               {
+                  "NB":"0",
+                  "WD":"0",
+                  "6s":1,
+                  "4s":4,
+                  "0s":6,
+                  "Econ":"9.50",
+                  "W":"1",
+                  "R":"38",
+                  "M":"0",
+                  "O":"4",
+                  "bowler":"Kagiso Rabada",
+                  "pid":"550215"
+               },
+               {
+                  "NB":"0",
+                  "WD":"1",
+                  "6s":0,
+                  "4s":3,
+                  "0s":11,
+                  "Econ":"6.00",
+                  "W":"1",
+                  "R":"24",
+                  "M":"0",
+                  "O":"4",
+                  "bowler":"Avesh Khan",
+                  "pid":"694211"
+               },
+               {
+                  "NB":"0",
+                  "WD":"0",
+                  "6s":2,
+                  "4s":0,
+                  "0s":2,
+                  "Econ":"9.00",
+                  "W":"1",
+                  "R":"27",
+                  "M":"0",
+                  "O":"3",
+                  "bowler":"Amit Mishra",
+                  "pid":"31107"
+               },
+               {
+                  "NB":"0",
+                  "WD":"0",
+                  "6s":2,
+                  "4s":0,
+                  "0s":5,
+                  "Econ":"8.25",
+                  "W":"1",
+                  "R":"33",
+                  "M":"0",
+                  "O":"4",
+                  "bowler":"Axar Patel",
+                  "pid":"554691"
+               },
+               {
+                  "NB":"0",
+                  "WD":"1",
+                  "6s":3,
+                  "4s":0,
+                  "0s":1,
+                  "Econ":"23.00",
+                  "W":"0",
+                  "R":"23",
+                  "M":"0",
+                  "O":"1",
+                  "bowler":"Marcus Stoinis",
+                  "pid":"325012"
+               }
+            ],
+            "title":"Bowling To Royal Challengers Bangalore INNINGS (20 overs maximum)"
+         },
+         {
+            "scores":[
+               {
+                  "NB":"0",
+                  "WD":"0",
+                  "6s":0,
+                  "4s":2,
+                  "0s":4,
+                  "Econ":"7.50",
+                  "W":"0",
+                  "R":"15",
+                  "M":"0",
+                  "O":"2",
+                  "bowler":"Daniel Sams",
+                  "pid":"826901"
+               },
+               {
+                  "NB":"0",
+                  "WD":"0",
+                  "6s":1,
+                  "4s":6,
+                  "0s":5,
+                  "Econ":"11.00",
+                  "W":"1",
+                  "R":"44",
+                  "M":"0",
+                  "O":"4",
+                  "bowler":"Mohammed Siraj",
+                  "pid":"940973"
+               },
+               {
+                  "NB":"0",
+                  "WD":"0",
+                  "6s":3,
+                  "4s":1,
+                  "0s":11,
+                  "Econ":"8.00",
+                  "W":"1",
+                  "R":"32",
+                  "M":"0",
+                  "O":"4",
+                  "bowler":"Kyle Jamieson",
+                  "pid":"625960"
+               },
+               {
+                  "NB":"0",
+                  "WD":"0",
+                  "6s":0,
+                  "4s":2,
+                  "0s":5,
+                  "Econ":"7.00",
+                  "W":"0",
+                  "R":"28",
+                  "M":"0",
+                  "O":"4",
+                  "bowler":"Washington Sundar",
+                  "pid":"719715"
+               },
+               {
+                  "NB":"0",
+                  "WD":"2",
+                  "6s":0,
+                  "4s":4,
+                  "0s":5,
+                  "Econ":"9.25",
+                  "W":"2",
+                  "R":"37",
+                  "M":"0",
+                  "O":"4",
+                  "bowler":"Harshal Patel",
+                  "pid":"390481"
+               },
+               {
+                  "NB":"0",
+                  "WD":"0",
+                  "6s":0,
+                  "4s":1,
+                  "0s":5,
+                  "Econ":"5.00",
+                  "W":"0",
+                  "R":"10",
+                  "M":"0",
+                  "O":"2",
+                  "bowler":"Yuzvendra Chahal",
+                  "pid":"430246"
+               }
+            ],
+            "title":"Bowling To Delhi Capitals INNINGS (target: 172 runs from 20 overs)"
+         }
+      ],
+      "batting":[
+         {
+            "scores":[
+               {
+                  "dismissal-by":{
+                     "name":"Avesh Khan",
+                     "pid":"694211"
+                  },
+                  "dismissal":"bowled",
+                  "SR":109,
+                  "6s":0,
+                  "4s":2,
+                  "M":0,
+                  "B":11,
+                  "R":12,
+                  "dismissal-info":"b Avesh Khan",
+                  "batsman":"Virat Kohli (c)",
+                  "pid":"253802"
+               },
+               {
+                  "dismissal-by":{
+                     "name":"Ishant Sharma",
+                     "pid":"236779"
+                  },
+                  "dismissal":"bowled",
+                  "SR":121,
+                  "6s":0,
+                  "4s":3,
+                  "M":0,
+                  "B":14,
+                  "R":17,
+                  "dismissal-info":"b Sharma",
+                  "batsman":"Devdutt Padikkal",
+                  "pid":"1119026"
+               },
+               {
+                  "dismissal-by":{
+                     "name":"Steven Smith",
+                     "pid":"267192"
+                  },
+                  "dismissal":"catch",
+                  "SR":140,
+                  "6s":2,
+                  "4s":0,
+                  "M":0,
+                  "B":22,
+                  "R":31,
+                  "dismissal-info":"c Smith b Patel",
+                  "batsman":"Rajat Patidar",
+                  "pid":"823703"
+               },
+               {
+                  "dismissal-by":{
+                     "name":"Steven Smith",
+                     "pid":"267192"
+                  },
+                  "dismissal":"catch",
+                  "SR":125,
+                  "6s":2,
+                  "4s":1,
+                  "M":0,
+                  "B":20,
+                  "R":25,
+                  "dismissal-info":"c Smith b Mishra",
+                  "batsman":"Glenn Maxwell",
+                  "pid":"325026"
+               },
+               {
+                  "dismissal":"not out",
+                  "SR":178,
+                  "6s":5,
+                  "4s":3,
+                  "M":0,
+                  "B":42,
+                  "R":75,
+                  "dismissal-info":"not out",
+                  "batsman":"AB de Villiers  ",
+                  "pid":"44936"
+               },
+               {
+                  "dismissal-by":{
+                     "name":"Kagiso Rabada",
+                     "pid":"550215"
+                  },
+                  "dismissal":"catch & bowled",
+                  "SR":66,
+                  "6s":0,
+                  "4s":0,
+                  "M":0,
+                  "B":9,
+                  "R":6,
+                  "dismissal-info":"c & b Rabada",
+                  "batsman":"Washington Sundar",
+                  "pid":"719715"
+               },
+               {
+                  "dismissal":"not out",
+                  "SR":150,
+                  "6s":0,
+                  "4s":0,
+                  "M":0,
+                  "B":2,
+                  "R":3,
+                  "dismissal-info":"not out",
+                  "batsman":"Daniel Sams",
+                  "pid":"826901"
+               }
+            ],
+            "title":"Royal Challengers Bangalore INNINGS (20 overs maximum)"
+         },
+         {
+            "scores":[
+               {
+                  "dismissal-by":{
+                     "name":"AB de Villiers",
+                     "pid":"44936"
+                  },
+                  "dismissal":"catch",
+                  "SR":116,
+                  "6s":0,
+                  "4s":3,
+                  "M":0,
+                  "B":18,
+                  "R":21,
+                  "dismissal-info":"c  de Villiers b Patel",
+                  "batsman":"Prithvi Shaw",
+                  "pid":"1070168"
+               },
+               {
+                  "dismissal-by":{
+                     "name":"Yuzvendra Chahal",
+                     "pid":"430246"
+                  },
+                  "dismissal":"catch",
+                  "SR":85,
+                  "6s":0,
+                  "4s":1,
+                  "M":0,
+                  "B":7,
+                  "R":6,
+                  "dismissal-info":"c Chahal b Jamieson",
+                  "batsman":"Shikhar Dhawan",
+                  "pid":"28235"
+               },
+               {
+                  "dismissal-by":{
+                     "name":"AB de Villiers",
+                     "pid":"44936"
+                  },
+                  "dismissal":"catch",
+                  "SR":80,
+                  "6s":0,
+                  "4s":1,
+                  "M":0,
+                  "B":5,
+                  "R":4,
+                  "dismissal-info":"c  de Villiers b Mohammed Siraj",
+                  "batsman":"Steven Smith",
+                  "pid":"267192"
+               },
+               {
+                  "dismissal":"not out",
+                  "SR":120,
+                  "6s":0,
+                  "4s":6,
+                  "M":0,
+                  "B":48,
+                  "R":58,
+                  "dismissal-info":"not out",
+                  "batsman":"Rishabh Pant (c) ",
+                  "pid":"931581"
+               },
+               {
+                  "dismissal-by":{
+                     "name":"AB de Villiers",
+                     "pid":"44936"
+                  },
+                  "dismissal":"catch",
+                  "SR":129,
+                  "6s":0,
+                  "4s":3,
+                  "M":0,
+                  "B":17,
+                  "R":22,
+                  "dismissal-info":"c  de Villiers b Patel",
+                  "batsman":"Marcus Stoinis",
+                  "pid":"325012"
+               },
+               {
+                  "dismissal":"not out",
+                  "SR":212,
+                  "6s":4,
+                  "4s":2,
+                  "M":0,
+                  "B":25,
+                  "R":53,
+                  "dismissal-info":"not out",
+                  "batsman":"Shimron Hetmyer",
+                  "pid":"670025"
+               }
+            ],
+            "title":"Delhi Capitals INNINGS (target: 172 runs from 20 overs)"
+         }
+      ],
+      "team":[
+         {
+            "players":[
+               {
+                  "name":"Prithvi Shaw",
+                  "pid":"1070168"
+               },
+               {
+                  "name":"Shikhar Dhawan",
+                  "pid":"28235"
+               },
+               {
+                  "name":"Steven Smith",
+                  "pid":"267192"
+               },
+               {
+                  "name":"Rishabh Pant",
+                  "pid":"931581"
+               },
+               {
+                  "name":"Marcus Stoinis",
+                  "pid":"325012"
+               },
+               {
+                  "name":"Shimron Hetmyer",
+                  "pid":"670025"
+               },
+               {
+                  "name":"Axar Patel",
+                  "pid":"554691"
+               },
+               {
+                  "name":"Kagiso Rabada",
+                  "pid":"550215"
+               },
+               {
+                  "name":"Avesh Khan",
+                  "pid":"694211"
+               },
+               {
+                  "name":"Amit Mishra",
+                  "pid":"31107"
+               },
+               {
+                  "name":"Ishant Sharma",
+                  "pid":"236779"
+               }
+            ],
+            "name":"Delhi Capitals"
+         },
+         {
+            "players":[
+               {
+                  "name":"Virat Kohli",
+                  "pid":"253802"
+               },
+               {
+                  "name":"Devdutt Padikkal",
+                  "pid":"1119026"
+               },
+               {
+                  "name":"Rajat Patidar",
+                  "pid":"823703"
+               },
+               {
+                  "name":"Glenn Maxwell",
+                  "pid":"325026"
+               },
+               {
+                  "name":"AB de Villiers",
+                  "pid":"44936"
+               },
+               {
+                  "name":"Washington Sundar",
+                  "pid":"719715"
+               },
+               {
+                  "name":"Daniel Sams",
+                  "pid":"826901"
+               },
+               {
+                  "name":"Kyle Jamieson",
+                  "pid":"625960"
+               },
+               {
+                  "name":"Harshal Patel",
+                  "pid":"390481"
+               },
+               {
+                  "name":"Mohammed Siraj",
+                  "pid":"940973"
+               },
+               {
+                  "name":"Yuzvendra Chahal",
+                  "pid":"430246"
+               }
+            ],
+            "name":"Royal Challengers Bangalore"
+         }
+      ],
+      "man-of-the-match":{
+         "name":"AB de Villiers",
+         "pid":"44936"
+      },
+      "toss_winner_team":"Delhi Capitals",
+      "winner_team":"Royal Challengers Bangalore",
+      "matchStarted":true
+   },
+   "cache3":true,
+   "creditsLeft":174,
+   "v":"1",
+   "ttl":2,
+   "provider":{
+      "source":"Various",
+      "url":"https://cricapi.com/",
+      "pubDate":"2021-04-28T10:18:29.416Z"
+   }
+}
